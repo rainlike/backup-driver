@@ -29,3 +29,6 @@
 
 # Web
 /web/bundles/
+
+# System
+.idea
